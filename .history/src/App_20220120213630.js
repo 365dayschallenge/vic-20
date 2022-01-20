@@ -1,5 +1,6 @@
+import logo from './logo.svg';
 import './App.css';
-import A from "./A"
+
 function App() {
   return (
     <div class="wrap">
